@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(aqua, green, blue, alpha)
+}
+
+nav a{
+    color: darkblue;
+    font-size: medium;
+    font-style: italic;
+    padding: 5%;
+    margin: 20px;
+}
